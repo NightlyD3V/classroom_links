@@ -8,4 +8,4 @@
 -- 5th grade -->
 [classroom_link](https://classroom.github.com/a/RyO8zQZI)<br>
 
-[type-racer](https://play.typeracer.com?rt=pg12pgb3p)
+[type-racer](https://play.typeracer.com?rt=1or197fw)
