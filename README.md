@@ -7,3 +7,5 @@
 [classroom_link](https://classroom.github.com/a/Nrj_c6sC)<br>
 -- 5th grade -->
 [classroom_link](https://classroom.github.com/a/RyO8zQZI)<br>
+
+[type-racer](https://play.typeracer.com?rt=pg12pgb3p)
