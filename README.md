@@ -8,4 +8,5 @@
 -- 5th grade -->
 [classroom_link](https://classroom.github.com/a/RyO8zQZI)<br>
 
-[type-racer](https://play.typeracer.com?rt=1or197fw)
+-- SCRATCH --> 
+[SCRATCHhttps://scratch.mit.edu/projects/757708318](https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318)
