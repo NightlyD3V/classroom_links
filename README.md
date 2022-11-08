@@ -9,4 +9,4 @@
 [classroom_link](https://classroom.github.com/a/RyO8zQZI)<br>
 
 -- SCRATCH --> 
-[SCRATCHhttps://scratch.mit.edu/projects/757708318](https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318)
+[SCRATCH](https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318)
