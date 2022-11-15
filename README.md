@@ -12,4 +12,5 @@
 [SCRATCH](https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318https://scratch.mit.edu/projects/757708318)
 
 -- NOTION TAMAGOTCHI -->
-[NOTION] https://www.notion.so/SCRATCH-TAMAGOTCHI-5a0ee8af2a254f6a90ac1a04dc94b999
+[NOTION](https://www.notion.so/SCRATCH-TAMAGOTCHI-5a0ee8af2a254f6a90ac1a04dc94b999)
+
