@@ -14,3 +14,5 @@
 -- NOTION TAMAGOTCHI -->
 [NOTION](https://www.notion.so/SCRATCH-TAMAGOTCHI-5a0ee8af2a254f6a90ac1a04dc94b999)
 
+-- NOTION CSS-BOX-MODEL --> 
+[NOTION](https://windy-aquarius-6ef.notion.site/THE-CSS-BOX-MODEL-UNITS-d047a64961d94ccfa30966bdf93b514e)
