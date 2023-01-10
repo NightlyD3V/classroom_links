@@ -16,3 +16,6 @@
 
 -- NOTION CSS-BOX-MODEL --> 
 [NOTION](https://windy-aquarius-6ef.notion.site/THE-CSS-BOX-MODEL-UNITS-d047a64961d94ccfa30966bdf93b514e)
+
+--SCRATCH REMIX --> 
+[SCRATCH](https://scratch.mit.edu/projects/785753822/)
